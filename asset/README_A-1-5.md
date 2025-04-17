@@ -9,7 +9,7 @@
 MQTTブローカの証明書を動作する環境にインポートします。
 
 ```bash
-cd droneport
+cd asset
 
 # プロジェクトのビルド
 ./gradlew build  

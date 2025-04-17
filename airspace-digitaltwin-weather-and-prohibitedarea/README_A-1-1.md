@@ -12,7 +12,7 @@
 1. git clone後
 
 ```bash
-cd data-link
+cd airspace-digitaltwin-weather-and-prohibitedarea
 
 # プロジェクトのビルド
 ./gradlew build  
