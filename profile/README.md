@@ -1,4 +1,4 @@
-<img src="../images/ODS_Logo.png" width="60%">
+<img src="https://github.com/ODS-IS-UASL/.github/blob/main/images/ODS_Logo.png" width="60%">
 
 ## Open Data Spaces ドローン航路システム 関連リポジトリ
 
